@@ -82,7 +82,7 @@
 
 <h2> CR  .... </h2>
 
-<img src="https://github.com/sakol289/msf/blob/main/cr.gif">
+<img src="https://raw.githubusercontent.com/sakol289/cr/main/cr.gif">
 
 		
 <h1>ติดตาม เฟสบุ๊ตได้ตามลิ้งนี้ https://www.facebook.com/rjhackyou </h1>
